@@ -1,0 +1,12 @@
+# /* main.py
+class Puzzle:
+    ...
+
+    def main(self, frame_size):
+        ...
+
+        while self.running:
+
+            if game.is_game_over(frame):
+                self.is_arranged = True
+                game.message()
